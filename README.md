@@ -20,6 +20,8 @@ On device: **Settings → Apps → Plugins → Add Plugin** → select `Courier.
 
 The Courier button appears in the 'Plugins' menu when a note is open. Select 'Share to Courier' to send the current note as a letter.
 
+Send me a letter! I'm at **dirty-remarkable-alpaca**
+
 ---
 
 ## Server
