@@ -15,7 +15,6 @@ A handwritten letter network for Supernote e-ink devices. Letters take time to a
 
 This is probably what you want. Download a pre-built version from releases and upload it to the MyStyles folder on your device.
 
-```
 
 On device: **Settings → Apps → Plugins → Add Plugin** → select `Courier.snplg`.
 
